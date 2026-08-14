@@ -7,6 +7,16 @@ Ketron SongBook Tool is a free macOS application designed to simplify the use of
 It automatically creates Ketron Registration files, organizes songs into Registration banks, assigns the required MIDI values and keeps the SongBook+ MIDI database synchronized.
 
 ---
+## Screenshots
+
+### Main Window
+
+![Ketron SongBook Tool Main Window](Képernyőfotó%202026-08-14%20-%2011.57.37.png)
+
+
+![Ketron SongBook Tool Help](Képernyőfotó%202026-08-14%20-%2012.10.48.png)
+
+---
 
 ## Features
 
