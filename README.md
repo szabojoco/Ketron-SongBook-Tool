@@ -9,12 +9,9 @@ It automatically creates Ketron Registration files, organizes songs into Registr
 ---
 ## Screenshots
 
-### Main Window
+![Main Window](main-window.png)
 
-![Ketron SongBook Tool Main Window](Képernyőfotó%202026-08-14%20-%2011.57.37.png)
-
-
-![Ketron SongBook Tool Help](Képernyőfotó%202026-08-14%20-%2012.10.48.png)
+![Help Window](help-window.png)
 
 ---
 
